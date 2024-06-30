@@ -5,7 +5,7 @@ campaignTrail_temp.election_json = [
         "fields": {
             "year": 2016,
             "display_year": "1934: A Party Is Born",
-            "summary": "For two decades, the state of Wisconsin has been defined by its one true party: the GOP. Where most states see a bitter battle between Democrats and Republicans, Wisconsin's political core was entirely concentrated in the GOP. Whether you were an arch-conservative Stalwart or a radical progressive, you stood in the Republican primary, or faced irrelevancy.<br><br>The New Deal has extinguished this system. As the state's Democrats were revived and reformed as a liberal coalition, the rural poor and industrial laborers that voted for progressive Republicans turned to them, leaving Stalwarts in control of most of the party. Even as they lost the general election, Stalwarts cemented the GOP as a conservative institution, built to deny the working man's due.<br><br>What remains of progressivism in Wisconsin depends on those few men with the strength to protect it. Your father has passed. Your brother lacks the spirit. It's up to you, Phil. Find a way out.",
+            "summary": "For all your life, the state of Wisconsin has been defined by its one true party: the Republicans. Where most states see regular bipartisan struggle, Wisconsin's political core has been entirely concentrated in the GOP. Whether you were an arch-conservative Stalwart or a radical progressive, you stood in the Republican primary or faced an inevitable defeat.<br><br>With the New Deal, you have seen this system crumble. As the state's Democrats were revived by the promise of FDR, the rural poor and industrial laborers that voted for progressive Republicans turned to them, leaving Stalwarts in control of the party. These men have cemented the GOP as a conservative institution, built to deny the working man's due.<br><br>What remains of progressivism in Wisconsin depends on those few men with the strength to protect it. Your father has passed. Your brother lacks the spirit. It's up to you, Phil. Find a way out.",
             "image_url": "https://i.imgur.com/xiuRCc5.png",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://i.imgur.com/xBS5uwc.png",
@@ -285,7 +285,6 @@ document.body.background = "https://i.imgur.com/IIrOEht.png";
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#e5fff2!important;}</style>";
 
-//#endcode
 campaignTrail_temp.achievements = {
     "Zimmermania!" : {
         "image" : "https://i.imgur.com/LperzIa.png",
@@ -318,3 +317,5 @@ campaignTrail_temp.achievements = {
         "cannotBeCheated" : true
      }
 }
+
+//#endcode
